@@ -1,6 +1,9 @@
 name: DailyRewards
 version: '1.0'
-main: me.michelemanna.dailyRewards.DailyRewards
+main: me.michelemanna.dailyrewards.DailyRewards
 api-version: '1.21'
 authors: [ Michelo11 ]
 website: https://michelemanna.me
+commands:
+  dailyreward:
+    description: DailyRewards command
