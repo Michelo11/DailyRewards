@@ -1,0 +1,6 @@
+name: DailyRewards
+version: '1.0'
+main: me.michelemanna.dailyRewards.DailyRewards
+api-version: '1.21'
+authors: [ Michelo11 ]
+website: https://michelemanna.me
